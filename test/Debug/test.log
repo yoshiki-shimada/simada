@@ -1,0 +1,170 @@
+﻿  BG.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  Bullet.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  Bumper.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ysimada\desktop\bowndman\test\bumper.cpp(36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Effect.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  Enemy.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(40): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(125): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(137): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(138): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(147): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(152): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(153): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(154): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(165): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(166): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(168): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(169): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(170): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(171): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(174): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(175): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(178): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy.cpp(179): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Enemy02.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ysimada\desktop\bowndman\test\enemy02.cpp(34): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy02.cpp(60): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Enemy03.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ysimada\desktop\bowndman\test\enemy03.cpp(34): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy03.cpp(60): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Enemy04.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ysimada\desktop\bowndman\test\enemy04.cpp(35): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\enemy04.cpp(61): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Fade.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  LoadScript.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  NextArrow.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  Player.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ysimada\desktop\bowndman\test\player.cpp(32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(50): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(135): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(191): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(192): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(206): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(211): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(212): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(213): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(278): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(279): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(296): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(297): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(310): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(311): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(325): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(330): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(331): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(332): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(350): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(351): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(365): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(370): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(371): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(372): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(385): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(386): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(400): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(405): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(406): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(407): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(420): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(421): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(435): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(440): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(441): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(442): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(484): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(485): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(487): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(488): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(489): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(490): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(493): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(494): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(497): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\player.cpp(498): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Portal.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ysimada\desktop\bowndman\test\portal.cpp(21): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\portal.cpp(40): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\portal.cpp(60): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  RemTask.cpp
+  Selector.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ysimada\desktop\bowndman\test\selector.cpp(134): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\selector.cpp(587): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\selector.cpp(591): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\selector.cpp(693): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\ysimada\desktop\bowndman\test\selector.cpp(694): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ysimada\desktop\bowndman\test\selector.cpp(698): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  ShoutingHockey.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  TitleText.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ysimada\desktop\bowndman\test\titletext.cpp(48): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  UI.cpp
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(185): warning C4005: 'BULLET_SE': マクロが再定義されました。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(118): note: 'BULLET_SE' の以前の定義を確認してください
+c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ysimada\desktop\bowndman\test\shoutinghockey.h(282): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  コードを生成中...
+  test.vcxproj -> C:\Users\ysimada\Desktop\BowndMan\Debug\test.exe

@@ -1,0 +1,1 @@
+enemy ZEnemy04 600 150
